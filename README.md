@@ -14,6 +14,8 @@
 
 Briem Hand is one of two related font families. This one is identical to the other which is called Briem Script except for one thing: Briem Script offers an unusually realiistic set joins strokes between the letters you would expect to join in handwritten text. Briem Hand keeps each letter seprate and not joined.
 
+See Briem Script: [https://github.com/SorkinType/Briem-Script](https://github.com/SorkinType/Briem-Script)
+
 ![Sample Image](documentation/image1.png)
 
 ## About
