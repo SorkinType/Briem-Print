@@ -53,11 +53,105 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0229	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni024C	Contours detected: 2	Expected: 1 
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
 
-	- And 49 more.
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -128,11 +222,125 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 
-	- And 59 more.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni20B1	Contours detected: 3	Expected: 1, 2 or 4
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: minus	Contours detected: 2	Expected: 1
+
+	- Glyph name: infinity	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: infinity	Contours detected: 2	Expected: 3
+
+	- Glyph name: lslash	Contours detected: 4	Expected: 1
+
+	- Glyph name: minus	Contours detected: 2	Expected: 1
+
+	- Glyph name: multiply	Contours detected: 4	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni20B1	Contours detected: 3	Expected: 1, 2 or 4 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -169,11 +377,53 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* ncaron (U+0148): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
 
-	* ntilde (U+00F1): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704 
+	* ntilde (U+00F1): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
 
-	* And 23 more.
+	* r (U+0072): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* racute (U+0155): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
+
+	* rcaron (U+0159): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
+
+	* uni0146 (U+0146): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni0157 (U+0157): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
+
+	* uni01CC (U+01CC): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni01F9 (U+01F9): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni0211 (U+0211): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
+
+	* uni0213 (U+0213): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
+
+	* uni026F (U+026F): B<<464.0,312.0>-<466.0,337.0>-<467.0,344.0>>/B<<467.0,344.0>-<453.0,307.0>-<426.0,261.5>> = 12.595456511404533
+
+	* uni026F (U+026F): B<<799.0,307.0>-<801.0,336.0>-<802.0,344.0>>/B<<802.0,344.0>-<788.0,307.0>-<761.5,261.5>> = 13.600542516658704
+
+	* uni0272 (U+0272): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E3F (U+1E3F): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E41 (U+1E41): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E43 (U+1E43): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E45 (U+1E45): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E47 (U+1E47): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E49 (U+1E49): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E4B (U+1E4B): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1E59 (U+1E59): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
+
+	* uni1E5B (U+1E5B): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335
+
+	* uni1E5D (U+1E5D): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335 
+
+	* And uni1E5F (U+1E5F): B<<203.5,302.0>-<201.0,273.0>-<200.0,263.0>>/B<<200.0,263.0>-<231.0,356.0>-<264.0,414.0>> = 12.724355685422335 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
@@ -247,11 +497,117 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 
-	- And 55 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: lslash	Contours detected: 3	Expected: 1
+
+	- Glyph name: multiply	Contours detected: 2	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0186	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -288,11 +644,29 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* uni01F9 (U+01F9): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
 
-	* uni026F (U+026F): B<<471.0,328.5>-<473.0,355.0>-<474.0,361.0>>/B<<474.0,361.0>-<458.0,321.0>-<429.5,273.0>> = 12.33908727832618 
+	* uni026F (U+026F): B<<471.0,328.5>-<473.0,355.0>-<474.0,361.0>>/B<<474.0,361.0>-<458.0,321.0>-<429.5,273.0>> = 12.33908727832618
 
-	* And 11 more.
+	* uni0272 (U+0272): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* uni1E3F (U+1E3F): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
+
+	* uni1E3F (U+1E3F): B<<520.0,195.5>-<518.0,169.0>-<517.0,163.0>>/B<<517.0,163.0>-<533.0,203.0>-<561.5,251.0>> = 12.33908727832618
+
+	* uni1E41 (U+1E41): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
+
+	* uni1E41 (U+1E41): B<<520.0,195.5>-<518.0,169.0>-<517.0,163.0>>/B<<517.0,163.0>-<533.0,203.0>-<561.5,251.0>> = 12.33908727832618
+
+	* uni1E43 (U+1E43): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
+
+	* uni1E43 (U+1E43): B<<520.0,195.5>-<518.0,169.0>-<517.0,163.0>>/B<<517.0,163.0>-<533.0,203.0>-<561.5,251.0>> = 12.33908727832618
+
+	* uni1E45 (U+1E45): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
+
+	* uni1E47 (U+1E47): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
+
+	* uni1E49 (U+1E49): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618 
+
+	* And uni1E4B (U+1E4B): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
@@ -368,11 +742,125 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 
-	- And 59 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni20B1	Contours detected: 3	Expected: 1, 2 or 4
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: infinity	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: colon	Contours detected: 1	Expected: 2
+
+	- Glyph name: infinity	Contours detected: 2	Expected: 3
+
+	- Glyph name: lslash	Contours detected: 4	Expected: 1
+
+	- Glyph name: multiply	Contours detected: 5	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni20B1	Contours detected: 3	Expected: 1, 2 or 4 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -409,11 +897,49 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* r (U+0072): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
 
-	* racute (U+0155): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231 
+	* racute (U+0155): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
 
-	* And 21 more.
+	* rcaron (U+0159): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* uni0146 (U+0146): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni0157 (U+0157): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
+
+	* uni01CC (U+01CC): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni01F9 (U+01F9): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni0211 (U+0211): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
+
+	* uni0213 (U+0213): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
+
+	* uni026F (U+026F): B<<457.0,295.5>-<459.0,319.0>-<460.0,327.0>>/B<<460.0,327.0>-<448.0,293.0>-<423.0,250.0>> = 12.315018479274388
+
+	* uni026F (U+026F): B<<792.0,290.5>-<794.0,318.0>-<795.0,327.0>>/B<<795.0,327.0>-<784.0,294.0>-<758.5,251.0>> = 12.094757077012058
+
+	* uni0272 (U+0272): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E3F (U+1E3F): B<<211.0,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E41 (U+1E41): B<<211.0,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E43 (U+1E43): B<<211.0,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E45 (U+1E45): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E47 (U+1E47): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E49 (U+1E49): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E4B (U+1E4B): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052
+
+	* uni1E59 (U+1E59): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
+
+	* uni1E5B (U+1E5B): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231
+
+	* uni1E5D (U+1E5D): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231 
+
+	* And uni1E5F (U+1E5F): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
@@ -477,11 +1003,121 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 
-	- And 57 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20B1	Contours detected: 3	Expected: 1, 2 or 4
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: infinity	Contours detected: 4	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: colon	Contours detected: 1	Expected: 2
+
+	- Glyph name: infinity	Contours detected: 4	Expected: 3
+
+	- Glyph name: lslash	Contours detected: 2	Expected: 1
+
+	- Glyph name: multiply	Contours detected: 3	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20B1	Contours detected: 3	Expected: 1, 2 or 4 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -510,11 +1146,27 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* uni01C4 (U+01C4): L<<961.0,336.0>--<975.0,336.0>> -> L<<975.0,336.0>--<975.0,336.0>>
 
-	* uni01C4 (U+01C4): L<<975.0,336.0>--<975.0,336.0>> -> L<<975.0,336.0>--<977.0,336.0>> 
+	* uni01C4 (U+01C4): L<<975.0,336.0>--<975.0,336.0>> -> L<<975.0,336.0>--<977.0,336.0>>
 
-	* And 10 more.
+	* uni01F1 (U+01F1): L<<961.0,336.0>--<975.0,336.0>> -> L<<975.0,336.0>--<975.0,336.0>>
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* uni01F1 (U+01F1): L<<975.0,336.0>--<975.0,336.0>> -> L<<975.0,336.0>--<977.0,336.0>>
+
+	* uni0283 (U+0283): L<<241.0,550.0>--<239.0,499.0>> -> L<<239.0,499.0>--<233.0,29.0>>
+
+	* uni0283 (U+0283): L<<83.0,105.0>--<78.0,499.0>> -> L<<78.0,499.0>--<78.0,522.0>>
+
+	* uni1E90 (U+1E90): L<<217.0,336.0>--<231.0,336.0>> -> L<<231.0,336.0>--<231.0,336.0>>
+
+	* uni1E90 (U+1E90): L<<231.0,336.0>--<231.0,336.0>> -> L<<231.0,336.0>--<233.0,336.0>>
+
+	* uni1E92 (U+1E92): L<<217.0,336.0>--<231.0,336.0>> -> L<<231.0,336.0>--<231.0,336.0>>
+
+	* uni1E92 (U+1E92): L<<231.0,336.0>--<231.0,336.0>> -> L<<231.0,336.0>--<233.0,336.0>>
+
+	* uni1E94 (U+1E94): L<<217.0,336.0>--<231.0,336.0>> -> L<<231.0,336.0>--<231.0,336.0>> 
+
+	* And uni1E94 (U+1E94): L<<231.0,336.0>--<231.0,336.0>> -> L<<231.0,336.0>--<233.0,336.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -538,11 +1190,81 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* n (U+006E): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
 
-	* nacute (U+0144): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303 
+	* nacute (U+0144): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
 
-	* And 37 more.
+	* ncaron (U+0148): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* ntilde (U+00F1): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* p (U+0070): B<<234.0,292.5>-<231.0,258.0>-<228.0,233.0>>/B<<228.0,233.0>-<237.0,262.0>-<259.0,299.5>> = 10.398685986309037
+
+	* r (U+0072): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* racute (U+0155): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* rcaron (U+0159): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* thorn (U+00FE): B<<233.0,287.5>-<230.0,249.0>-<228.0,233.0>>/B<<228.0,233.0>-<237.0,262.0>-<259.0,299.5>> = 10.116443050038137
+
+	* uni0146 (U+0146): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni0157 (U+0157): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* uni0180 (U+0180): B<<240.0,291.0>-<237.0,250.0>-<236.0,233.0>>/B<<236.0,233.0>-<245.0,262.0>-<267.0,299.5>> = 13.874998735510172
+
+	* uni01CC (U+01CC): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni01F9 (U+01F9): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni0211 (U+0211): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* uni0213 (U+0213): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* uni026F (U+026F): B<<444.5,259.0>-<447.0,287.0>-<449.0,300.0>>/B<<449.0,300.0>-<440.0,271.0>-<417.5,232.5>> = 8.49529713638477
+
+	* uni026F (U+026F): B<<780.0,251.0>-<783.0,285.0>-<784.0,301.0>>/B<<784.0,301.0>-<776.0,272.0>-<753.5,233.0>> = 11.845826943741303
+
+	* uni0272 (U+0272): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E03 (U+1E03): B<<240.0,288.0>-<237.0,250.0>-<236.0,233.0>>/B<<236.0,233.0>-<245.0,262.0>-<267.0,299.5>> = 13.874998735510172
+
+	* uni1E05 (U+1E05): B<<240.0,288.0>-<237.0,250.0>-<236.0,233.0>>/B<<236.0,233.0>-<245.0,262.0>-<267.0,299.5>> = 13.874998735510172
+
+	* uni1E07 (U+1E07): B<<240.0,288.0>-<237.0,250.0>-<236.0,233.0>>/B<<236.0,233.0>-<245.0,262.0>-<267.0,299.5>> = 13.874998735510172
+
+	* uni1E3F (U+1E3F): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E3F (U+1E3F): B<<568.5,265.0>-<566.0,237.0>-<564.0,224.0>>/B<<564.0,224.0>-<573.0,253.0>-<595.5,291.5>> = 8.49529713638477
+
+	* uni1E41 (U+1E41): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E41 (U+1E41): B<<568.5,265.0>-<566.0,237.0>-<564.0,224.0>>/B<<564.0,224.0>-<573.0,253.0>-<595.5,291.5>> = 8.49529713638477
+
+	* uni1E43 (U+1E43): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E43 (U+1E43): B<<568.5,265.0>-<566.0,237.0>-<564.0,224.0>>/B<<564.0,224.0>-<573.0,253.0>-<595.5,291.5>> = 8.49529713638477
+
+	* uni1E45 (U+1E45): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E47 (U+1E47): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E49 (U+1E49): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E4B (U+1E4B): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* uni1E55 (U+1E55): B<<234.0,292.5>-<231.0,258.0>-<228.0,233.0>>/B<<228.0,233.0>-<237.0,262.0>-<259.0,299.5>> = 10.398685986309037
+
+	* uni1E57 (U+1E57): B<<234.0,292.5>-<231.0,258.0>-<228.0,233.0>>/B<<228.0,233.0>-<237.0,262.0>-<259.0,299.5>> = 10.398685986309037
+
+	* uni1E59 (U+1E59): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* uni1E5B (U+1E5B): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* uni1E5D (U+1E5D): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517
+
+	* uni1E5F (U+1E5F): B<<236.5,320.0>-<234.0,294.0>-<232.0,278.0>>/B<<232.0,278.0>-<272.0,402.0>-<319.0,463.0>> = 10.753680246939517 
+
+	* And uni207F (U+207F): B<<198.5,428.5>-<196.0,402.0>-<194.0,389.0>>/B<<194.0,389.0>-<203.0,411.0>-<224.0,441.0>> = 13.502861394657142 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
@@ -600,11 +1322,105 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0229	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni024C	Contours detected: 2	Expected: 1 
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
 
-	- And 49 more.
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -689,11 +1505,101 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0229	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni024C	Contours detected: 2	Expected: 1 
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
 
-	- And 47 more.
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -730,11 +1636,311 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* aogonek (U+0105): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
 
-	* aring (U+00E5): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504 
+	* aring (U+00E5): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
 
-	* And 152 more.
+	* aringacute (U+01FB): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* at (U+0040): B<<530.5,146.0>-<532.0,176.0>-<533.0,191.0>>/B<<533.0,191.0>-<529.0,175.0>-<513.5,149.5>> = 10.222168633636109
+
+	* atilde (U+00E3): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* b (U+0062): B<<281.0,315.0>-<279.0,284.0>-<279.0,275.0>>/B<<279.0,275.0>-<281.0,295.0>-<298.5,325.5>> = 5.710593137499633
+
+	* d (U+0064): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* dcaron (U+010F): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* dcroat (U+0111): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* dong (U+20AB): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* eng (U+014B): B<<273.0,312.0>-<271.0,288.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 3.03556912505556
+
+	* g (U+0067): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* gbreve (U+011F): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* gcaron (U+01E7): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* gcircumflex (U+011D): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* gdotaccent (U+0121): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* h (U+0068): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* hbar (U+0127): B<<270.5,315.5>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* hcircumflex (U+0125): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* k (U+006B): B<<278.0,315.0>-<276.0,284.0>-<276.0,275.0>>/B<<276.0,275.0>-<278.0,295.0>-<295.5,325.5>> = 5.710593137499633
+
+	* kgreenlandic (U+0138): B<<272.0,313.0>-<269.0,289.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 5.710593137499633
+
+	* m (U+006D): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* m (U+006D): B<<611.0,326.5>-<608.0,301.0>-<605.0,276.0>>/B<<605.0,276.0>-<608.0,296.0>-<625.5,327.0>> = 1.6879921973171763
+
+	* n (U+006E): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* nacute (U+0144): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* ncaron (U+0148): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* ntilde (U+00F1): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* ordfeminine (U+00AA): B<<265.0,429.0>-<266.0,451.0>-<267.0,463.0>>/B<<267.0,463.0>-<263.0,448.0>-<245.5,423.0>> = 10.167775487411356
+
+	* p (U+0070): B<<272.5,340.0>-<269.0,306.0>-<266.0,275.0>>/B<<266.0,275.0>-<268.0,295.0>-<285.5,325.5>> = 0.18305298584087132
+
+	* q (U+0071): B<<387.0,197.0>-<389.0,228.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 5.710593137499633
+
+	* r (U+0072): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* racute (U+0155): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* rcaron (U+0159): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* thorn (U+00FE): B<<270.5,323.5>-<268.0,290.0>-<266.0,275.0>>/B<<266.0,275.0>-<268.0,295.0>-<285.5,325.5>> = 1.8840502310916725
+
+	* threequarters (U+00BE): B<<342.5,462.0>-<324.0,455.0>-<312.0,454.0>>/B<<312.0,454.0>-<369.0,447.0>-<399.0,419.0>> = 11.764909248221487
+
+	* u (U+0075): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uacute (U+00FA): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* ubreve (U+016D): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* ucircumflex (U+00FB): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* udieresis (U+00FC): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* ugrave (U+00F9): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uhorn (U+01B0): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uhungarumlaut (U+0171): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* umacron (U+016B): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni00B3 (U+00B3): B<<342.5,462.0>-<324.0,455.0>-<312.0,454.0>>/B<<312.0,454.0>-<369.0,447.0>-<399.0,419.0>> = 11.764909248221487
+
+	* uni00B5 (U+00B5): B<<400.0,191.5>-<401.0,212.0>-<402.0,224.0>>/B<<402.0,224.0>-<397.0,203.0>-<375.5,168.5>> = 8.628856063024877
+
+	* uni0123 (U+0123): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* uni0137 (U+0137): B<<278.0,315.0>-<276.0,284.0>-<276.0,275.0>>/B<<276.0,275.0>-<278.0,295.0>-<295.5,325.5>> = 5.710593137499633
+
+	* uni0146 (U+0146): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni0157 (U+0157): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* uni0180 (U+0180): B<<281.5,315.5>-<279.0,284.0>-<279.0,275.0>>/B<<279.0,275.0>-<281.0,295.0>-<298.5,325.5>> = 5.710593137499633
+
+	* uni01C6 (U+01C6): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni01CC (U+01CC): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni01CE (U+01CE): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni01D4 (U+01D4): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni01D6 (U+01D6): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni01D8 (U+01D8): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni01DA (U+01DA): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni01DC (U+01DC): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni01DF (U+01DF): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni01E5 (U+01E5): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* uni01E9 (U+01E9): B<<278.0,315.0>-<276.0,284.0>-<276.0,275.0>>/B<<276.0,275.0>-<278.0,295.0>-<295.5,325.5>> = 5.710593137499633
+
+	* uni01F3 (U+01F3): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni01F5 (U+01F5): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* uni01F9 (U+01F9): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni0201 (U+0201): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni0203 (U+0203): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni0211 (U+0211): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* uni0213 (U+0213): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* uni0215 (U+0215): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni0217 (U+0217): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni021F (U+021F): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* uni0227 (U+0227): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni0233 (U+0233): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* uni026F (U+026F): B<<421.5,198.0>-<424.0,224.0>-<427.0,248.0>>/B<<427.0,248.0>-<424.0,228.0>-<406.5,197.0>> = 1.4057492610462028
+
+	* uni026F (U+026F): B<<756.5,184.5>-<760.0,219.0>-<763.0,249.0>>/B<<763.0,249.0>-<761.0,230.0>-<743.5,199.0>> = 0.2984128199930731
+
+	* uni0272 (U+0272): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni0289 (U+0289): B<<400.0,191.5>-<401.0,212.0>-<402.0,224.0>>/B<<402.0,224.0>-<397.0,205.0>-<379.0,175.5>> = 9.979921145744504
+
+	* uni03BC (U+03BC): B<<400.0,191.5>-<401.0,212.0>-<402.0,224.0>>/B<<402.0,224.0>-<397.0,203.0>-<375.5,168.5>> = 8.628856063024877
+
+	* uni1E01 (U+1E01): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1E03 (U+1E03): B<<281.0,315.0>-<279.0,284.0>-<279.0,275.0>>/B<<279.0,275.0>-<281.0,295.0>-<298.5,325.5>> = 5.710593137499633
+
+	* uni1E05 (U+1E05): B<<281.0,315.0>-<279.0,284.0>-<279.0,275.0>>/B<<279.0,275.0>-<281.0,295.0>-<298.5,325.5>> = 5.710593137499633
+
+	* uni1E07 (U+1E07): B<<281.0,315.0>-<279.0,284.0>-<279.0,275.0>>/B<<279.0,275.0>-<281.0,295.0>-<298.5,325.5>> = 5.710593137499633
+
+	* uni1E0B (U+1E0B): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1E0D (U+1E0D): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1E0F (U+1E0F): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1E11 (U+1E11): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1E13 (U+1E13): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1E21 (U+1E21): B<<392.0,183.5>-<391.0,215.0>-<389.0,237.0>>/B<<389.0,237.0>-<387.0,217.0>-<369.5,186.0>> = 10.905022045234459
+
+	* uni1E23 (U+1E23): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* uni1E25 (U+1E25): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* uni1E27 (U+1E27): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* uni1E29 (U+1E29): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* uni1E2B (U+1E2B): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* uni1E31 (U+1E31): B<<278.0,315.0>-<276.0,284.0>-<276.0,275.0>>/B<<276.0,275.0>-<278.0,295.0>-<295.5,325.5>> = 5.710593137499633
+
+	* uni1E33 (U+1E33): B<<278.0,315.0>-<276.0,284.0>-<276.0,275.0>>/B<<276.0,275.0>-<278.0,295.0>-<295.5,325.5>> = 5.710593137499633
+
+	* uni1E35 (U+1E35): B<<278.0,315.0>-<276.0,284.0>-<276.0,275.0>>/B<<276.0,275.0>-<278.0,295.0>-<295.5,325.5>> = 5.710593137499633
+
+	* uni1E3F (U+1E3F): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni1E3F (U+1E3F): B<<611.0,326.5>-<608.0,301.0>-<605.0,276.0>>/B<<605.0,276.0>-<608.0,296.0>-<625.5,327.0>> = 1.6879921973171763
+
+	* uni1E41 (U+1E41): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni1E41 (U+1E41): B<<611.0,326.5>-<608.0,301.0>-<605.0,276.0>>/B<<605.0,276.0>-<608.0,296.0>-<625.5,327.0>> = 1.6879921973171763
+
+	* uni1E43 (U+1E43): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni1E43 (U+1E43): B<<611.0,326.5>-<608.0,301.0>-<605.0,276.0>>/B<<605.0,276.0>-<608.0,296.0>-<625.5,327.0>> = 1.6879921973171763
+
+	* uni1E45 (U+1E45): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni1E47 (U+1E47): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni1E49 (U+1E49): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni1E4B (U+1E4B): B<<275.5,340.0>-<272.0,306.0>-<269.0,275.0>>/B<<269.0,275.0>-<271.0,295.0>-<288.5,325.5>> = 0.18305298584087132
+
+	* uni1E55 (U+1E55): B<<272.5,340.0>-<269.0,306.0>-<266.0,275.0>>/B<<266.0,275.0>-<268.0,295.0>-<285.5,325.5>> = 0.18305298584087132
+
+	* uni1E57 (U+1E57): B<<272.5,340.0>-<269.0,306.0>-<266.0,275.0>>/B<<266.0,275.0>-<268.0,295.0>-<285.5,325.5>> = 0.18305298584087132
+
+	* uni1E59 (U+1E59): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* uni1E5B (U+1E5B): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* uni1E5D (U+1E5D): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* uni1E5F (U+1E5F): B<<277.0,356.0>-<274.0,327.0>-<271.0,296.0>>/B<<271.0,296.0>-<303.0,400.0>-<346.5,462.0>> = 11.57518881739615
+
+	* uni1E73 (U+1E73): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1E75 (U+1E75): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1E77 (U+1E77): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1E79 (U+1E79): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1E7B (U+1E7B): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1E8F (U+1E8F): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* uni1E96 (U+1E96): B<<270.0,315.0>-<268.0,284.0>-<268.0,275.0>>/B<<268.0,275.0>-<270.0,295.0>-<287.5,325.5>> = 5.710593137499633
+
+	* uni1E99 (U+1E99): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* uni1E9A (U+1E9A): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EA1 (U+1EA1): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EA3 (U+1EA3): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EA5 (U+1EA5): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EA7 (U+1EA7): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EA9 (U+1EA9): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EAB (U+1EAB): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EAD (U+1EAD): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EAF (U+1EAF): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EB1 (U+1EB1): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EB3 (U+1EB3): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EB5 (U+1EB5): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EB7 (U+1EB7): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* uni1EE5 (U+1EE5): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1EE7 (U+1EE7): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1EE9 (U+1EE9): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1EEB (U+1EEB): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1EED (U+1EED): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1EEF (U+1EEF): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1EF1 (U+1EF1): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uni1EF5 (U+1EF5): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* uni1EF7 (U+1EF7): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* uni1EF9 (U+1EF9): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* uni207F (U+207F): B<<212.5,476.0>-<209.0,448.0>-<206.0,424.0>>/B<<206.0,424.0>-<210.0,440.0>-<227.5,464.5>> = 6.911227119024662
+
+	* uni2153 (U+2153): B<<668.5,259.0>-<650.0,252.0>-<638.0,251.0>>/B<<638.0,251.0>-<695.0,244.0>-<725.0,216.0>> = 11.764909248221487
+
+	* uogonek (U+0173): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* uring (U+016F): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* utilde (U+0169): B<<387.0,191.5>-<388.0,212.0>-<389.0,224.0>>/B<<389.0,224.0>-<384.0,205.0>-<366.0,175.5>> = 9.979921145744504
+
+	* y (U+0079): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* yacute (U+00FD): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* ycircumflex (U+0177): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424
+
+	* ydieresis (U+00FF): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424 
+
+	* And ygrave (U+1EF3): B<<408.0,195.5>-<407.0,221.0>-<405.0,237.0>>/B<<405.0,237.0>-<403.0,217.0>-<385.5,186.0>> = 12.835609486401424 [code: found-jaggy-segments]
 </div></details><br></div></details><details><summary><b>[8] BriemHand-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -786,11 +1992,117 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 
-	- And 55 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20B1	Contours detected: 6	Expected: 1, 2 or 4
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: colon	Contours detected: 1	Expected: 2
+
+	- Glyph name: lslash	Contours detected: 5	Expected: 1
+
+	- Glyph name: multiply	Contours detected: 3	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20B1	Contours detected: 6	Expected: 1, 2 or 4 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -827,11 +2139,157 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* h (U+0068): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
 
-	* hbar (U+0127): B<<251.5,293.0>-<249.0,258.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628 
+	* hbar (U+0127): B<<251.5,293.0>-<249.0,258.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
 
-	* And 75 more.
+	* hcircumflex (U+0125): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* k (U+006B): B<<258.5,302.5>-<256.0,270.0>-<256.0,261.0>>/B<<256.0,261.0>-<263.0,290.0>-<283.5,325.0>> = 13.570434385161475
+
+	* kgreenlandic (U+0138): B<<253.0,302.0>-<250.0,275.0>-<250.0,261.0>>/B<<250.0,261.0>-<257.0,290.0>-<277.5,325.0>> = 13.570434385161475
+
+	* m (U+006D): B<<253.5,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* m (U+006D): B<<589.0,289.5>-<587.0,266.0>-<585.0,250.0>>/B<<585.0,250.0>-<591.0,275.0>-<611.0,309.5>> = 6.370716931893944
+
+	* n (U+006E): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* nacute (U+0144): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* ncaron (U+0148): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* ntilde (U+00F1): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* p (U+0070): B<<252.5,308.0>-<250.0,278.0>-<247.0,254.0>>/B<<247.0,254.0>-<253.0,278.0>-<272.5,312.5>> = 6.911227119024609
+
+	* q (U+0071): B<<398.5,212.5>-<401.0,247.0>-<401.0,260.0>>/B<<401.0,260.0>-<395.0,235.0>-<375.0,200.5>> = 13.495733280795811
+
+	* r (U+0072): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* racute (U+0155): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* rcaron (U+0159): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* thorn (U+00FE): B<<252.0,306.0>-<249.0,270.0>-<247.0,254.0>>/B<<247.0,254.0>-<253.0,278.0>-<272.5,312.5>> = 6.911227119024609
+
+	* uni0123 (U+0123): B<<402.5,197.0>-<402.0,233.0>-<402.0,260.0>>/B<<402.0,260.0>-<396.0,235.0>-<376.0,200.5>> = 13.495733280795811
+
+	* uni0137 (U+0137): B<<258.5,302.5>-<256.0,270.0>-<256.0,261.0>>/B<<256.0,261.0>-<263.0,290.0>-<283.5,325.0>> = 13.570434385161475
+
+	* uni0146 (U+0146): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni0157 (U+0157): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* uni0180 (U+0180): B<<261.0,303.0>-<258.0,267.0>-<258.0,254.0>>/B<<258.0,254.0>-<263.0,278.0>-<283.0,312.5>> = 11.768288932020628
+
+	* uni01CC (U+01CC): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni01E5 (U+01E5): B<<402.5,197.0>-<402.0,233.0>-<402.0,260.0>>/B<<402.0,260.0>-<396.0,235.0>-<376.0,200.5>> = 13.495733280795811
+
+	* uni01E9 (U+01E9): B<<258.5,302.5>-<256.0,270.0>-<256.0,261.0>>/B<<256.0,261.0>-<263.0,290.0>-<283.5,325.0>> = 13.570434385161475
+
+	* uni01F5 (U+01F5): B<<402.5,197.0>-<402.0,233.0>-<402.0,260.0>>/B<<402.0,260.0>-<396.0,235.0>-<376.0,200.5>> = 13.495733280795811
+
+	* uni01F9 (U+01F9): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni0211 (U+0211): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* uni0213 (U+0213): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* uni021F (U+021F): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
+
+	* uni0233 (U+0233): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* uni026F (U+026F): B<<433.5,234.5>-<436.0,258.0>-<438.0,274.0>>/B<<438.0,274.0>-<432.0,249.0>-<412.0,214.5>> = 6.370716931893944
+
+	* uni026F (U+026F): B<<769.0,225.0>-<772.0,255.0>-<774.0,275.0>>/B<<774.0,275.0>-<768.0,251.0>-<748.5,216.0>> = 8.325650330426804
+
+	* uni0272 (U+0272): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni0289 (U+0289): B<<408.5,203.0>-<410.0,230.0>-<412.0,249.0>>/B<<412.0,249.0>-<404.0,225.0>-<383.5,191.5>> = 12.425942865427455
+
+	* uni1E03 (U+1E03): B<<260.5,301.5>-<258.0,267.0>-<258.0,254.0>>/B<<258.0,254.0>-<263.0,278.0>-<283.0,312.5>> = 11.768288932020628
+
+	* uni1E05 (U+1E05): B<<260.5,301.5>-<258.0,267.0>-<258.0,254.0>>/B<<258.0,254.0>-<263.0,278.0>-<283.0,312.5>> = 11.768288932020628
+
+	* uni1E07 (U+1E07): B<<260.5,301.5>-<258.0,267.0>-<258.0,254.0>>/B<<258.0,254.0>-<263.0,278.0>-<283.0,312.5>> = 11.768288932020628
+
+	* uni1E21 (U+1E21): B<<402.5,197.0>-<402.0,233.0>-<402.0,260.0>>/B<<402.0,260.0>-<396.0,235.0>-<376.0,200.5>> = 13.495733280795811
+
+	* uni1E23 (U+1E23): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
+
+	* uni1E25 (U+1E25): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
+
+	* uni1E27 (U+1E27): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
+
+	* uni1E29 (U+1E29): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
+
+	* uni1E2B (U+1E2B): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
+
+	* uni1E31 (U+1E31): B<<258.5,302.5>-<256.0,270.0>-<256.0,261.0>>/B<<256.0,261.0>-<263.0,290.0>-<283.5,325.0>> = 13.570434385161475
+
+	* uni1E33 (U+1E33): B<<258.5,302.5>-<256.0,270.0>-<256.0,261.0>>/B<<256.0,261.0>-<263.0,290.0>-<283.5,325.0>> = 13.570434385161475
+
+	* uni1E35 (U+1E35): B<<258.5,302.5>-<256.0,270.0>-<256.0,261.0>>/B<<256.0,261.0>-<263.0,290.0>-<283.5,325.0>> = 13.570434385161475
+
+	* uni1E3F (U+1E3F): B<<253.5,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni1E3F (U+1E3F): B<<589.0,289.5>-<587.0,266.0>-<585.0,250.0>>/B<<585.0,250.0>-<591.0,275.0>-<611.0,309.5>> = 6.370716931893944
+
+	* uni1E41 (U+1E41): B<<253.5,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni1E41 (U+1E41): B<<589.0,289.5>-<587.0,266.0>-<585.0,250.0>>/B<<585.0,250.0>-<591.0,275.0>-<611.0,309.5>> = 6.370716931893944
+
+	* uni1E43 (U+1E43): B<<253.5,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni1E43 (U+1E43): B<<589.0,289.5>-<587.0,266.0>-<585.0,250.0>>/B<<585.0,250.0>-<591.0,275.0>-<611.0,309.5>> = 6.370716931893944
+
+	* uni1E45 (U+1E45): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni1E47 (U+1E47): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni1E49 (U+1E49): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni1E4B (U+1E4B): B<<254.0,299.0>-<251.0,269.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 6.057695794520992
+
+	* uni1E55 (U+1E55): B<<252.5,308.0>-<250.0,278.0>-<247.0,254.0>>/B<<247.0,254.0>-<253.0,278.0>-<272.5,312.5>> = 6.911227119024609
+
+	* uni1E57 (U+1E57): B<<252.5,308.0>-<250.0,278.0>-<247.0,254.0>>/B<<247.0,254.0>-<253.0,278.0>-<272.5,312.5>> = 6.911227119024609
+
+	* uni1E59 (U+1E59): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* uni1E5B (U+1E5B): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* uni1E5D (U+1E5D): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* uni1E5F (U+1E5F): B<<257.5,346.5>-<254.0,313.0>-<252.0,287.0>>/B<<252.0,287.0>-<288.0,401.0>-<333.0,462.5>> = 13.126863018727317
+
+	* uni1E8F (U+1E8F): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* uni1E96 (U+1E96): B<<251.5,290.0>-<249.0,257.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628
+
+	* uni1E99 (U+1E99): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* uni1EF5 (U+1EF5): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* uni1EF7 (U+1EF7): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* uni1EF9 (U+1EF9): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* uni207F (U+207F): B<<204.5,445.5>-<202.0,422.0>-<200.0,407.0>>/B<<200.0,407.0>-<207.0,425.0>-<226.0,452.5>> = 13.655862138541766
+
+	* uni20B1 (U+20B1): B<<22.0,377.0>-<22.0,424.0>-<40.0,423.0>>/B<<40.0,423.0>-<36.0,423.0>-<32.0,423.0>> = 3.1798301198641643
+
+	* uni20B1 (U+20B1): B<<85.0,424.0>-<73.0,424.0>-<63.0,423.0>>/L<<63.0,423.0>--<85.0,423.0>> = 5.710593137499633
+
+	* y (U+0079): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* yacute (U+00FD): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* ycircumflex (U+0177): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362
+
+	* ydieresis (U+00FF): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362 
+
+	* And ygrave (U+1EF3): B<<415.5,204.0>-<415.0,237.0>-<414.0,260.0>>/B<<414.0,260.0>-<409.0,235.0>-<388.5,200.5>> = 13.799485396019362 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
