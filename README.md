@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FBriem-1%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FBriem-1%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Briem Hand is one of two related font families. This one is identical to the other which is called Briem Script except for one thing: Briem Script offers an unusually realiistic set joins strokes between the letters you would expect to join in handwritten text. Briem Hand keeps each letter seprate and not joined.
+Briem Hand is one of two related font families. Briem Hand keeps each letter separate and not joined. The other, Briem Script; offers an unusually realistic set of join strokes between the letters which join in handwritten text. Both designs help teach the handwriting system made by Gunnlaugur SE Briem.
 
 See Briem Script: [https://github.com/SorkinType/Briem-Script](https://github.com/SorkinType/Briem-Script)
 
@@ -22,7 +22,7 @@ See Briem Script: [https://github.com/SorkinType/Briem-Script](https://github.co
 
 Gunnlaugur SE Briem is a designer and lives in Spain. His postgraduate studies in Copenhagen and London ended with a PhD from the Royal College of Art.Gunnlaugur SE Briem designed Briem Script. Previous Non-Libre versions have been released in the past by Microsoft, Adobe and Monotype.
 
-Sorkin Type is a Massachusetts based font foundry.
+Sorkin Type Co. is a Massachusetts based font foundry.
 
 ## Building
 
