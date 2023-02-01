@@ -1,4 +1,4 @@
-# Briem Hand
+# Briem Print
 
 [![][Fontbakery]](https://SorkinType.github.io/Briem-1/fontbakery/fontbakery-report.html)
 [![][Universal]](https://SorkinType.github.io/Briem-1/fontbakery/fontbakery-report.html)
@@ -20,7 +20,9 @@ See Briem Script: [https://github.com/SorkinType/Briem-Script](https://github.co
 
 ## About
 
-Gunnlaugur SE Briem is a designer and lives in Spain. His postgraduate studies in Copenhagen and London ended with a PhD from the Royal College of Art.Gunnlaugur SE Briem designed Briem Script. Previous Non-Libre versions have been released in the past by Microsoft, Adobe and Monotype.
+Gunnlaugur SE Briem is a designer and lives in Spain. His postgraduate studies in Basel and London ended with a PhD from the Royal College of Art. Gunnlaugur SE Briem designed Briem Print. 
+
+Previous Non-Libre versions have been released in the past by Microsoft, Adobe and Monotype.
 
 Sorkin Type Co. is a Massachusetts based font foundry.
 
